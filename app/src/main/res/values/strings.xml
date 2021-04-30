@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MidtermProject</string>
+    <string name="payment">Payment</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="subtotal_price">$160.00</string>
+    <string name="discount">Discount</string>
+    <string name="discount_percent">5%</string>
+    <string name="shipping">Shipping</string>
+    <string name="shipping_cost">$10.00</string>
+    <string name="total">Total</string>
+    <string name="total_cost">$162.00</string>
+    <string name="add_card">Add Card</string>
+    <string name="checkout">Checkout</string>
+    <string name="card_number">5270 7777 8888 9999</string>
+    <string name="magari_kaci">Sandro Shanshiashvili</string>
+    <string name="last_three_num">567</string>
+    <string name="date">28/03</string>
+    <string name="save_card">SAVE CARD</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="exp_date">EXP DATE</string>
+</resources>
